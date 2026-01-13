@@ -1,0 +1,34 @@
+Aim: Introduction to Python
+Theory: 
+a)Data Types in Python:
+1. int - stores whole numbers(e.g 10,5)
+2. float- stores decimal numbers(e.g,3.14)
+3. str - stores text or characters(e.g,"Priyal")
+4. bool - stores True or False
+   
+b)Import statement: It is used to include external modules or libraries in a Pythonb program and allows to use predefined functions and constants.
+e.g import math -used to access mathematical functions like log(x),pi,etc.
+
+c)If-Else statements:They are used to make decisions in a program and execute a block of code only when the given condition satisfies.
+
+Algorithm:
+1.Start
+2.Import necessary library using import statement
+3.Input values of variables a and b
+4.Calculate:
+Sum = a + b
+Difference = a - b
+Product = a * b
+Quotient = a / b
+5.If a > b, display "a is greater than b"
+Else, display "b is greater than or equal to a".
+6.Declare variable r for radius.
+7.Calculate area using formula:
+Area = π × r × r
+Display the area of the circle.
+Stop
+End
+
+Conclusion:
+Python allows easy use of data types, import statements, mathematical operations, and if–else conditions to write simple, clear, and efficient programs for problem solving.
+
